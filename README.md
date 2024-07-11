@@ -18,6 +18,11 @@ I'm a student on its last year, studying a double degree:
 💻 `Computer Science and Information Systems Management` 
 
 🎮 `Videogame Production and Design`
+
+> [!Tip]
+> Check my itch.io!
+> 
+>[<img width="26px" src="./img/itchio.png"/>](https://franysan.itch.io#gh-light-mode-only)
 ## Languages and Tools:
 <img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -61,5 +66,3 @@ I'm a student on its last year, studying a double degree:
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/fran_s.t#gh-dark-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/fran_s.t#gh-light-mode-only)
-&nbsp;&nbsp;
-[<img width="26px" src="./img/itchio.png"/>](https://franysan.itch.io#gh-light-mode-only)
