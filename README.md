@@ -1,4 +1,4 @@
-# Hey! Welcome to Fran's GitHub 👋
+# Hey! I'm Fran Secchi ~ aka FranySan!👋
 
 **`Videogame Developer` `Software Engineering`**
 >⚙️ Software are puzzles and programming keys is the solution!  
