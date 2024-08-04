@@ -63,6 +63,3 @@ I'm a student on its last year, studying a double degree:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/francisco-secchi-b3a3002a5#gh-dark-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/francisco-secchi-b3a3002a5#gh-light-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/fran_s.t#gh-dark-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/fran_s.t#gh-light-mode-only)
